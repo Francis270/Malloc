@@ -1,5 +1,7 @@
 # Malloc
 
+Created with t_blenox <3
+
 Simple libmy_malloc.so that includes malloc free realloc calloc, a graphical demo is available in the bonus folder
 
 Compile by making: make re
